@@ -2,8 +2,7 @@
 thecodigohub/thecodigohub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 ---># 💫 About Me:
-- 👋 Hi, I’m @thecodigohub
-Startup about software development<br>
+- 👋 Hi, I’m @thecodigohub a startup about software development<br>
 
 
 ## 🌐 Socials:
